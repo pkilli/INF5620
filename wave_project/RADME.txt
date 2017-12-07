@@ -1,0 +1,9 @@
+The file called wave_2D_dn_vc.py has a solver for wave eq. with Neumann boundary conditions and variable coefficient.
+Could be misleading name as it says "dn". Was planning to make it solve Dirichlet b.c aswell, but unfortunatly it does not.
+
+There is also tests in the program, that has names so that it should be easy to understand what they are supposed to test.
+
+The Pdf file has some explenations and the general scheme, with both special case of step1 and how the boundary conditions 
+is handled.
+
+Further there is some pictures from some of the tests that have been vizualised.
